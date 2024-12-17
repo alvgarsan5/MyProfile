@@ -1,5 +1,5 @@
 # MyProfile
-👋 ¡Hola! Soy [Tu Nombre], estudiante de primer año de Desarrollo de Aplicaciones Web (DAW). Estoy enfocado en aprender a crear aplicaciones web modernas y mejorar mis habilidades como desarrollador.
+👋 ¡Hola! Soy Álvaro, estudiante de primer año de Desarrollo de Aplicaciones Web (DAW). Estoy enfocado en aprender a crear aplicaciones web modernas y mejorar mis habilidades como desarrollador.
 
 🛠️ Tecnologías y herramientas que manejo
 Frontend: HTML5 
