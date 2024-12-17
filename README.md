@@ -1,2 +1,6 @@
 # MyProfile
-My piublic profile
+My public profile
+
+#### Where to find me:
+
+mis primeros cambios
